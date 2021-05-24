@@ -1,0 +1,4 @@
+create database "bus_booking" and import sql file
+
+admin username - raqeeb or sushant
+admin password - snuff1231
